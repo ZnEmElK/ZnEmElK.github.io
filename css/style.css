@@ -1,0 +1,14 @@
+header {
+	font-family: 'Indie Flower', cursive;
+}
+
+main {
+	font-family: 'Mogra', cursive;
+	font-weight: bold;
+	font-size: 35px;
+	margin-left: 30px;
+}
+
+ol li {
+	margin-bottom: 30px;
+}
